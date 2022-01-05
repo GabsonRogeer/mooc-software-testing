@@ -33,4 +33,3 @@ public class GettingStarted {
         Assertions.assertEquals(15, result);
     }
 }
-
